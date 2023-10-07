@@ -1,0 +1,13 @@
+// Environment variable needed to run bash & sh: command
+C:\Program Files\Git\bin
+
+$ chmod +x run-docker.sh
+$ chmod +x run-kubernetes.sh
+$ sh run-docker.sh
+$ sh run-kubernetes.sh
+
+$ sh apply-ingress.sh
+$octant
+------------------------------------------
+$ sh stop-docker.sh
+$ sh stop-kubernetes.sh
