@@ -1,4 +1,4 @@
-# cloud-native-springinaction-maven
+# Cloud Native Spring in Action with SpringBoot and Kubernetes - maven
 Contains scripts to automate docker and kubernetes deployments for Microservices
 
 - [Edge Service](https://github.com/cometbid-project/edge-service)
