@@ -6,7 +6,7 @@ $ sh run-docker.sh
 $ sh run-kubernetes.sh
 
 $ sh apply-ingress.sh
-$octant
+$ octant
 ------------------------------------------
 $ sh stop-docker.sh
 $ sh stop-kubernetes.sh
